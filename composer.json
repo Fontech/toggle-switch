@@ -1,5 +1,5 @@
 {
-    "name": "naif/toggle",
+    "name": "fontech/toggle-switch",
     "description": "A Laravel Nova toggle switch field",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Naif\\Toggle\\": "src/"
+            "Fontech\\ToggleSwitch\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Naif\\Toggle\\FieldServiceProvider"
+                "Fontech\\ToggleSwitch\\FieldServiceProvider"
             ]
         }
     },

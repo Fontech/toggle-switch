@@ -6,7 +6,7 @@ A Laravel Nova toggle switch field
 You can install the package in to a Laravel app that uses Nova via composer:
 
 ```bash
-composer require naif/toggle
+composer require fontech/toggle
 ```
 
 ## Usage:
@@ -16,7 +16,7 @@ Add the below to Nova/User.php resource:
 
 # You can set the toggle swhich color by color code
 Toggle::make('Toggle')->color('#7e3d2f'),
-         
+
 ```
 
 <img src="https://github.com/naifalshaye/toggle-switch/blob/master/screenshots/colors.png" width="142">

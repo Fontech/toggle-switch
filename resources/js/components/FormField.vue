@@ -6,7 +6,6 @@
                    :style.checked="getCustomStyle()"
                    :placeholder="field.name"
                    v-model="value"
-                   v-bind:true-value="1" v-bind:false-value="0"
 
             />
 

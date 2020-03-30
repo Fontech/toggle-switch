@@ -1,6 +1,6 @@
 <?php
 
-namespace Naif\Toggle;
+namespace Fontech\ToggleSwitch;
 
 use Laravel\Nova\Fields\Field;
 
@@ -19,5 +19,4 @@ class Toggle extends Field
             'color' => $color
         ]);
     }
-
 }
