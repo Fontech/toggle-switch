@@ -6,7 +6,7 @@ A Laravel Nova toggle switch field
 You can install the package in to a Laravel app that uses Nova via composer:
 
 ```bash
-composer require fontech/toggle
+composer require fontech/toggle-switch
 ```
 
 ## Usage:
